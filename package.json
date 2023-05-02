@@ -1,0 +1,25 @@
+{
+  "name": "orangetoolz",
+  "version": "1.0.0",
+  "description": "test for node js engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahir509/orangetoolz.git"
+  },
+  "author": "jahir509",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahir509/orangetoolz/issues"
+  },
+  "homepage": "https://github.com/Jahir509/orangetoolz#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
